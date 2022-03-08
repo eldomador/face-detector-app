@@ -2,6 +2,8 @@
   "expo": {
     "name": "face-detector-app",
     "slug": "face-detector-app",
+    "privacy":"public",
+    "description":"face-detector-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
